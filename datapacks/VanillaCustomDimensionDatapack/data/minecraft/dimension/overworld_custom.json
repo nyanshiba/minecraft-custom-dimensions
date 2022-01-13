@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+        "layers": [
+            {
+                "block": "minecraft:air",
+                "height": 64
+            },
+            {
+                "block": "minecraft:bedrock",
+                "height": 1
+            },
+            {
+                "block": "minecraft:gray_stained_glass",
+                "height": 1
+            }
+        ],
+            "structures": {
+                "structures": {}
+            }
+        }
+    }
+}
